@@ -4,7 +4,7 @@
 - name: PAWK
   i18n: PAWK
   gh_user: pyang-1981
-  repo: pawk-0.01
+  repo: pawk
   img: /static/assets/img/landing/pawk.png
   desc: A PCAP analysis tool using GAWK programming language.
 
